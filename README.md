@@ -3,4 +3,4 @@ permalink: /index.html
 ---
 
 ### Hi, I'm A.Yoon.  
-Welcome to my [GitHub page](a-yoon.github.io).
+Welcome to my [GitHub page](https://a-yoon.github.io/).
